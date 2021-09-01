@@ -1,5 +1,5 @@
 {
-        "info_s": "off",
+        "info_s": "on",
         "temp_m": "auto",
         "rpm": "1500",
         "r_temp": "21",
