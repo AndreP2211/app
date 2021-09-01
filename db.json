@@ -1,8 +1,9 @@
 {
         "info_s": "off",
         "temp_m": "auto",
-        "rpm": "2000",
+        "rpm": "100",
         "r_temp": "21",
+        "humid": "53",
         "p_temp": "36",
         "t_mode": "normal",
         "t_color": "#FF6969",
