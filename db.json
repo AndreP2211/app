@@ -5,13 +5,16 @@
         "r_temp": "21",
         "humid": "53",
         "p_temp": "36",
+        "t_led": "on",
         "t_mode": "normal",
         "t_color": "#FF6969",
         "link_schreibtisch": "http://myjson.dit.upm.es/api/bins/1hpk",
 
+        "b_led": "off",
         "b_mode": "pulse",
         "b_color": "#FF6969",
 
+        "tv_led": "off",
         "tv_mode": "pulse",
         "tv_color":"#FF6969",
         
