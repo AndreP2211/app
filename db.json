@@ -1,10 +1,10 @@
 {
         "info_s": "on",
         "temp_m": "auto",
-        "rpm": "1500",
         "r_temp": "21",
         "humid": "53",
-        "p_temp": "36",
+        "rpm": "1500",
+        "rpm_mode": "auto",
         "t_led": "on",
         "t_mode": "normal",
         "t_color": "#FF6969",
