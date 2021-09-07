@@ -15,7 +15,7 @@
         "b_color": "#837191",
 
         "tv_led": "off",
-        "tv_mode": "fließen",
+        "tv_mode": "flow",
         "tv_color":"#862FF82",
         
         "url": "http://myjson.dit.upm.es/api/bins/fec"
