@@ -8,7 +8,6 @@
         "t_led": "on",
         "t_mode": "normal",
         "t_color": "#FF6969",
-        "link_schreibtisch": "http://myjson.dit.upm.es/api/bins/1hpk",
 
         "b_led": "off",
         "b_mode": "pulse",
@@ -18,5 +17,4 @@
         "tv_mode": "flow",
         "tv_color":"#862FF82",
         
-        "url": "http://myjson.dit.upm.es/api/bins/fec"
 }
