@@ -3,7 +3,7 @@
         "temp_m": "auto",
         "r_temp": "21",
         "humid": "53",
-        "rpm": "500",
+        "rpm": "3000",
         "rpm_mode": "auto",
         "t_led": "on",
         "t_mode": "normal",
